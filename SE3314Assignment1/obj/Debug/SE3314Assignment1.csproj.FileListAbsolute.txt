@@ -1,0 +1,9 @@
+c:\users\chiborak\documents\visual studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.exe.config
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.exe
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.pdb
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.Form1.resources
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.Properties.Resources.resources
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.csproj.GenerateResource.Cache
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.exe
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.pdb
